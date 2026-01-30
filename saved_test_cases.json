@@ -1,0 +1,567 @@
+{
+  "test_cases": [
+    {
+      "fh": 8,
+      "r": 8,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 8,
+      "r": 8,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 8,
+      "r": 8,
+      "bs": 128,
+      "seed": 456
+    },
+    {
+      "fh": 8,
+      "r": 12,
+      "bs": 256,
+      "seed": 42
+    },
+    {
+      "fh": 8,
+      "r": 12,
+      "bs": 256,
+      "seed": 123
+    },
+    {
+      "fh": 8,
+      "r": 12,
+      "bs": 256,
+      "seed": 456
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 128,
+      "seed": 456
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 256,
+      "seed": 42
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 256,
+      "seed": 123
+    },
+    {
+      "fh": 8,
+      "r": 20,
+      "bs": 256,
+      "seed": 456
+    },
+    {
+      "fh": 9,
+      "r": 10,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 9,
+      "r": 10,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 9,
+      "r": 10,
+      "bs": 128,
+      "seed": 456
+    },
+    {
+      "fh": 9,
+      "r": 15,
+      "bs": 256,
+      "seed": 42
+    },
+    {
+      "fh": 9,
+      "r": 15,
+      "bs": 256,
+      "seed": 123
+    },
+    {
+      "fh": 9,
+      "r": 15,
+      "bs": 256,
+      "seed": 456
+    },
+    {
+      "fh": 9,
+      "r": 20,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 9,
+      "r": 20,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 9,
+      "r": 20,
+      "bs": 128,
+      "seed": 456
+    },
+    {
+      "fh": 10,
+      "r": 8,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 10,
+      "r": 8,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 10,
+      "r": 8,
+      "bs": 128,
+      "seed": 456
+    },
+    {
+      "fh": 10,
+      "r": 12,
+      "bs": 256,
+      "seed": 42
+    },
+    {
+      "fh": 10,
+      "r": 12,
+      "bs": 256,
+      "seed": 123
+    },
+    {
+      "fh": 10,
+      "r": 12,
+      "bs": 256,
+      "seed": 456
+    },
+    {
+      "fh": 10,
+      "r": 16,
+      "bs": 256,
+      "seed": 42
+    },
+    {
+      "fh": 10,
+      "r": 16,
+      "bs": 256,
+      "seed": 123
+    },
+    {
+      "fh": 10,
+      "r": 16,
+      "bs": 256,
+      "seed": 456
+    },
+    {
+      "fh": 10,
+      "r": 20,
+      "bs": 128,
+      "seed": 42
+    },
+    {
+      "fh": 10,
+      "r": 20,
+      "bs": 128,
+      "seed": 123
+    },
+    {
+      "fh": 10,
+      "r": 20,
+      "bs": 128,
+      "seed": 456
+    }
+  ],
+  "results": [
+    {
+      "params": [
+        8,
+        8,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 437
+    },
+    {
+      "params": [
+        8,
+        8,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 437
+    },
+    {
+      "params": [
+        8,
+        8,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 437
+    },
+    {
+      "params": [
+        8,
+        12,
+        256,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1094
+    },
+    {
+      "params": [
+        8,
+        12,
+        256,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1094
+    },
+    {
+      "params": [
+        8,
+        12,
+        256,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1094
+    },
+    {
+      "params": [
+        8,
+        20,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 912
+    },
+    {
+      "params": [
+        8,
+        20,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 912
+    },
+    {
+      "params": [
+        8,
+        20,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 912
+    },
+    {
+      "params": [
+        8,
+        20,
+        256,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1740
+    },
+    {
+      "params": [
+        8,
+        20,
+        256,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1740
+    },
+    {
+      "params": [
+        8,
+        20,
+        256,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1740
+    },
+    {
+      "params": [
+        9,
+        10,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 568
+    },
+    {
+      "params": [
+        9,
+        10,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 568
+    },
+    {
+      "params": [
+        9,
+        10,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 568
+    },
+    {
+      "params": [
+        9,
+        15,
+        256,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1335
+    },
+    {
+      "params": [
+        9,
+        15,
+        256,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1335
+    },
+    {
+      "params": [
+        9,
+        15,
+        256,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1335
+    },
+    {
+      "params": [
+        9,
+        20,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1024
+    },
+    {
+      "params": [
+        9,
+        20,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1024
+    },
+    {
+      "params": [
+        9,
+        20,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1024
+    },
+    {
+      "params": [
+        10,
+        8,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 438
+    },
+    {
+      "params": [
+        10,
+        8,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 438
+    },
+    {
+      "params": [
+        10,
+        8,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 438
+    },
+    {
+      "params": [
+        10,
+        12,
+        256,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1166
+    },
+    {
+      "params": [
+        10,
+        12,
+        256,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1166
+    },
+    {
+      "params": [
+        10,
+        12,
+        256,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1166
+    },
+    {
+      "params": [
+        10,
+        16,
+        256,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1451
+    },
+    {
+      "params": [
+        10,
+        16,
+        256,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1451
+    },
+    {
+      "params": [
+        10,
+        16,
+        256,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1451
+    },
+    {
+      "params": [
+        10,
+        20,
+        128,
+        42
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1027
+    },
+    {
+      "params": [
+        10,
+        20,
+        128,
+        123
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1027
+    },
+    {
+      "params": [
+        10,
+        20,
+        128,
+        456
+      ],
+      "val": true,
+      "idx": true,
+      "cycles": 1027
+    }
+  ]
+}
